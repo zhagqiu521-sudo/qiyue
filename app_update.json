@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.8.2.0",
+  "latest_version": "1.8.6.8",
   "download_url": "http://api.52cg.ren/templates/TestSetup.exe",
-  "release_notes": "这是一次极速测试！如果你看到了记事本弹出来，说明一切完美！",
-  "file_hash": "" 
+  "release_notes": "更新内容",
+  "file_hash": ""
 }
